@@ -10,6 +10,8 @@ public class Distribuidor {
     private static final int PORTA = 12345;
     private static final String[] IPS = {
         // Coloque aqui os IPs dos servidores R
+        "172.16.232.187", //lesio
+        "172.16.232.117", //danna
         "127.0.0.1" // para teste local; adicione outros
     };
 
